@@ -1,4 +1,4 @@
 # PatikaNotOrtHesap
-Not Ortalaması Hesaplayan Program
+KDV Tutarı Hesaplayan Program
 
 ## https://app.patika.dev/evrenakgun
